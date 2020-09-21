@@ -7,7 +7,7 @@
 weatheringToday.iml
 
 # dependencies
-/node_modules
+weathering_today/node_modules
 /.pnp
 .pnp.js
 
